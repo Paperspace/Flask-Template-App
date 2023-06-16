@@ -5,7 +5,7 @@
 This is a template for users looking to deploy their own Flask app on Paperspace.
 
 - The [Flask](https://flask.palletsprojects.com) app code is located in `app/main.py`
-- The Dockerfile is used to create an image which was pushed as a public image to [paperspace/flask-template-app:latest](https://hub.docker.com/repository/docker/paperspace/flask-template-app/general)
+- The Dockerfile is used to create an image which was pushed as a public image to [paperspace/flask-template-app:2023-06-16](https://hub.docker.com/repository/docker/paperspace/flask-template-app/general)
 - The above image can be deployed to Paperspace using the [app config](https://docs-next.paperspace.com/deploying/app-config) located at `paperspace.yaml`
 
 ## Project Structure
